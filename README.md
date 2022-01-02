@@ -1,6 +1,7 @@
 # Image-classification-of-colon-cancer-via-transfer-learning
 Design a reliable NN model to accurately determine whether a cell is benign(non-cancerous) or malignant(cancerous) and use the leaning of the developed model to further classify the cell types.
 
+patch images link- https://drive.google.com/file/d/1gxBfEDukQGKD-AlHsTH4OwPnHCxTo4hr/view?usp=sharing
 
 Introduction:
 As a part of this assignment, we are trying to develop a neural network for classification of cells being cancerous and their type. We are using publicly available routine colon cancer histological dataset “CRCHistoPhenotypes”. The aim of this experiment is to design a reliable NN model to accurately determine whether a cell is benign(non-cancerous) or malignant(cancerous) and use the leaning of the developed model to further classify the cell types.
