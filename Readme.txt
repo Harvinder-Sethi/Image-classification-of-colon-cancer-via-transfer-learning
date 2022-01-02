@@ -1,0 +1,2 @@
+1. Before exectuing please make sure Image_clssification_data.zip file is present in same directory.
+2. After the Zip extraction command, please ensure that the unzipped files are under Image_clssification_data directory.
