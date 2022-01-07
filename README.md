@@ -1,4 +1,4 @@
-# Image-classification-of-colon-cancer-via-transfer-learning
+# Image-classification-of-colon-cancer(transfer learning)
 Design a reliable NN model to accurately determine whether a cell is benign(non-cancerous) or malignant(cancerous) and use the leaning of the developed model to further classify the cell types.
 
 patch images link- https://drive.google.com/file/d/1gxBfEDukQGKD-AlHsTH4OwPnHCxTo4hr/view?usp=sharing
